@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://files.catbox.moe/0v9gto.png" alt="Retail Sales Analysis – SQL Project Banner" width="100%">
-</p>
-
 
 # Retail Sales Analysis SQL Project
 
